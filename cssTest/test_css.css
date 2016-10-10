@@ -1,0 +1,55 @@
+h1 {
+  color: blue;
+  font-family:fantasy;
+  text-align: center
+}
+h3 {
+  vertical-align: middle;
+}
+
+div {
+
+}
+
+p {
+  color: green;
+  font-weight:800;
+
+}
+
+a:hover {
+  color: yellow
+}
+.a {
+  color: black;
+  font-size: 120px
+}
+.box {
+  /*width: 200px;
+  height:200px;*/
+  padding: 10px;
+  width: 20%;
+  display: inline-block;
+  border: black outset;
+  border-radius: 20%;
+  text-align: center;
+}
+
+.box:hover{
+  padding: 0px
+}
+
+#b {
+  text-transform: capitalize;
+  color: red;
+  align-self: center;
+  font-size: 88px
+}
+
+#pink {
+  background-color: pink
+}
+
+#purple {
+  background-color: purple
+}
